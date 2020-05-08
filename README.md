@@ -26,6 +26,8 @@ https://course.fast.ai/
 
 [What is CNN](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
 
+[What is CNN - more into how it works instead of pure theory](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
+
 [Semantic Segmentation in U-net](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
 
 [Deep Learning Architects Overview](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
