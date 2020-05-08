@@ -20,3 +20,10 @@ https://youtu.be/WGJJIrtnfpk
 # Some interactive or follow along courses (Found By Aldrian)
 Free :
 https://course.fast.ai/
+
+
+# References
+
+[Semantic Segmentation in U-net](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
+
+[Deep Learning Architects Overview](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
