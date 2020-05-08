@@ -24,7 +24,7 @@ https://course.fast.ai/
 
 # Reading References
 
-[What is CNN] (https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+[What is CNN](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
 
 [Semantic Segmentation in U-net](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
 
