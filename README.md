@@ -31,3 +31,5 @@ https://course.fast.ai/
 [Semantic Segmentation in U-net](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
 
 [Deep Learning Architects Overview](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
+
+[Managing different image sizes in neural network](https://medium.com/neuronio/how-to-deal-with-image-resizing-in-deep-learning-e5177fad7d89)
