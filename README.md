@@ -34,4 +34,4 @@ https://course.fast.ai/
 
 [Managing different image sizes in neural network](https://medium.com/neuronio/how-to-deal-with-image-resizing-in-deep-learning-e5177fad7d89)
 
-[How convolution works and tricks to speed up](https://towardsdatascience.com/how-are-convolutions-actually-performed-under-the-hood-226523ce7fbf)
+[How convolution works and tricks to speed up(im2col, memory stride)](https://towardsdatascience.com/how-are-convolutions-actually-performed-under-the-hood-226523ce7fbf)
