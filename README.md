@@ -35,8 +35,9 @@ https://course.fast.ai/
 
 [How convolution works and tricks to speed up(im2col, memory stride)](https://towardsdatascience.com/how-are-convolutions-actually-performed-under-the-hood-226523ce7fbf)
 
-[AutoAugment - using ML to find data augmentation method](https://towardsdatascience.com/how-to-improve-your-image-classifier-with-googles-autoaugment-77643f0be0c9)
+[AutoAugment - using ML to find data augmentation method (2018)](https://towardsdatascience.com/how-to-improve-your-image-classifier-with-googles-autoaugment-77643f0be0c9)
 
+[Assemble-Resnet+AutoAugment (Feb 2020)](https://medium.com/analytics-vidhya/assemble-resnet-that-is-5-times-faster-with-the-same-accuracy-as-efficientnet-b6-autoaugment-c752f1835c38)
 ## U-net
 
 [Semantic Segmentation in U-net](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
