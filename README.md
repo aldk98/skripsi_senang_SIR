@@ -35,3 +35,8 @@ https://course.fast.ai/
 [Managing different image sizes in neural network](https://medium.com/neuronio/how-to-deal-with-image-resizing-in-deep-learning-e5177fad7d89)
 
 [How convolution works and tricks to speed up(im2col, memory stride)](https://towardsdatascience.com/how-are-convolutions-actually-performed-under-the-hood-226523ce7fbf)
+
+
+## Resnet
+
+[Revisiting Resnet and its variants (2017)](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
