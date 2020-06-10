@@ -38,6 +38,8 @@ https://course.fast.ai/
 [AutoAugment - using ML to find data augmentation method (2018)](https://towardsdatascience.com/how-to-improve-your-image-classifier-with-googles-autoaugment-77643f0be0c9)
 
 [Assemble-Resnet+AutoAugment (Feb 2020)](https://medium.com/analytics-vidhya/assemble-resnet-that-is-5-times-faster-with-the-same-accuracy-as-efficientnet-b6-autoaugment-c752f1835c38)
+
+[Types of CNN Kernels (2019)](https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37)
 ### Back Propagation
 
 [Back Propagation](https://codesachin.wordpress.com/2015/12/06/backpropagation-for-dummies/)
