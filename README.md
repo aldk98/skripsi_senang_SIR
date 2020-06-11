@@ -61,4 +61,4 @@ https://course.fast.ai/
 
 # Tips and extra methods (e.g. Data Augmentation, tuning hyper parameters, better u-net decoders,)
 
-[Multi Sample Dropout for accelerated training and better generalization](https://arxiv.org/pdf/1905.09788.pdf)
+[Multi Sample Dropout for accelerated training and better generalization (2019)](https://arxiv.org/pdf/1905.09788.pdf)
