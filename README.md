@@ -21,6 +21,8 @@ https://youtu.be/WGJJIrtnfpk
 Free :
 https://course.fast.ai/
 
+# FastAI Related
+[How and why to freeze() or unfreeze() before training](https://forums.fast.ai/t/why-do-we-need-to-unfreeze-the-learner-everytime-before-retarining-even-if-learn-fit-one-cycle-works-fine-without-learn-unfreeze/41614/5)
 
 # Reading References
 ## CNN and general reading
