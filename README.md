@@ -58,3 +58,7 @@ https://course.fast.ai/
 ## Mnas
 
 [MnasNet - mobile arcchitecture for CNN (2018)](https://ai.googleblog.com/2018/08/mnasnet-towards-automating-design-of.html)
+
+# Tips and extra methods (e.g. Data Augmentation, tuning hyper parameters, better u-net decoders,)
+
+[Multi Sample Dropout for accelerated training and better generalization](https://arxiv.org/pdf/1905.09788.pdf)
