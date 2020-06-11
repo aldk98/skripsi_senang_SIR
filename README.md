@@ -54,3 +54,7 @@ https://course.fast.ai/
 ## Resnet
 
 [Revisiting Resnet and its variants (2017)](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+
+## Mnas
+
+[MnasNet - mobile arcchitecture for CNN (2018)](https://ai.googleblog.com/2018/08/mnasnet-towards-automating-design-of.html)
