@@ -3,6 +3,24 @@ Repo untuk belajar bareng ML, ANN, dan mungkin Python. Founded By:
 - Aldrian
 - Daniel
 - Tamim
+
+# Used Libraries:
+FastAI:
+```
+pip install fastai
+```
+PyTorch:
+```
+pip install torch torchvision
+```
+PytorchCV(Model implementation):
+```
+pip install pytorchcv
+```
+Cadene:
+```
+pip install pretrainedmodels
+```
 # Video Courses
 ## Youtube
 Artificial Intelligence:
@@ -53,6 +71,9 @@ https://course.fast.ai/
 [Non-Linearity vs Linearity](https://medium.com/@gopal010895/linearity-vs-non-linearity-in-classifying-data-6ab308a07668)
 
 [Data Augmentation](https://medium.com/snowdog-labs/data-augmentation-techniques-and-pitfalls-of-small-datasets-e5a657fc404f)
+
+[Learning the Non-linearity in Convolutional Neural
+Networks (May 2019)](https://arxiv.org/pdf/1905.12337.pdf)
 
 ## U-net
 
