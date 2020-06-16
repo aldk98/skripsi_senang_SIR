@@ -45,6 +45,8 @@ https://course.fast.ai/
 ### Back Propagation
 
 [Back Propagation](https://codesachin.wordpress.com/2015/12/06/backpropagation-for-dummies/)
+### General Reading
+[Cross Validation - AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html)
 
 ## U-net
 
