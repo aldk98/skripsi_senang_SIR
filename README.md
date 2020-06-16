@@ -49,6 +49,10 @@ https://course.fast.ai/
 [K fold cross validation - AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html)
 
 [More types of cross validation](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
+### Non Linearity in Deep Learning
+[Non-Linearity vs Linearity](https://medium.com/@gopal010895/linearity-vs-non-linearity-in-classifying-data-6ab308a07668)
+
+[Data Augmentation](https://medium.com/snowdog-labs/data-augmentation-techniques-and-pitfalls-of-small-datasets-e5a657fc404f)
 
 ## U-net
 
