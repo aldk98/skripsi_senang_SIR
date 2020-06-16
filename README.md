@@ -47,6 +47,7 @@ https://course.fast.ai/
 [Back Propagation](https://codesachin.wordpress.com/2015/12/06/backpropagation-for-dummies/)
 ### Cross Validation
 [K fold cross validation - AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html)
+
 [More types of cross validation](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 
 ## U-net
