@@ -1,10 +1,11 @@
 # Courtesy of https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/utils.py
 from fastai.torch_core import flatten_model
 from fastai.layers import CrossEntropyFlat
-
+import torch
 
 def arch_summary(arch):
-    model = arch(False)
+    if isinstance(arch,torch.nn.modules.container.Sequential):model = arch
+    else : model = arch(False)
     tot = 0
     for i, l in enumerate(model.children()):
         n_layers = len(flatten_model(l))
