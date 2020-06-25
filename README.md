@@ -86,6 +86,10 @@ Networks (May 2019)](https://arxiv.org/pdf/1905.12337.pdf)
 
 [Revisiting Resnet and its variants (2017)](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 
+## EfficientNet
+
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (2019)](https://arxiv.org/pdf/1905.11946.pdf)
+
 ## Mnas
 
 [MnasNet - mobile arcchitecture for CNN (2018)](https://ai.googleblog.com/2018/08/mnasnet-towards-automating-design-of.html)
